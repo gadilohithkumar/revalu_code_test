@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/revalu_code_test/static/css/main.e6c13ad2.css",
+    "main.js": "/revalu_code_test/static/js/main.149b1e44.js",
+    "static/js/453.5bdd01b6.chunk.js": "/revalu_code_test/static/js/453.5bdd01b6.chunk.js",
+    "index.html": "/revalu_code_test/index.html",
+    "main.e6c13ad2.css.map": "/revalu_code_test/static/css/main.e6c13ad2.css.map",
+    "main.149b1e44.js.map": "/revalu_code_test/static/js/main.149b1e44.js.map",
+    "453.5bdd01b6.chunk.js.map": "/revalu_code_test/static/js/453.5bdd01b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.149b1e44.js"
+  ]
+}
